@@ -1,0 +1,5 @@
+Soal penyisihan hacktoday 2024
+
+Team solved : 2 Team
+
+Port : 5000
